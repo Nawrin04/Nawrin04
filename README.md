@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about C++, Python, Data Structures & Algorithms, and beginner programming projects.
 - 📫 How to reach me: nawrinbushra@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact:  I'm fueled by curiosity, driven by daily discoveries, and on a journey to turn my love for learning into meaningful research and innovation. 
-
+- ⚡ Fun fact: Curious by nature, always learning, and aspiring to become a researcher.
