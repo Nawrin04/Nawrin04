@@ -12,16 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about C++, Python, Data Structures & Algorithms, and beginner programming projects.
 - 📫 How to reach me: nawrinbushra@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a CSE student who loves learning new technologies and building Python projects, explore IT 
-
-### 🛠️ Skills & Technologies
-
-- Programming: C++, Python
-- Tools: Git, GitHub, VS Code
-- Currently learning: SQL, HTML, CSS
-
-### 🚀 My Projects
-
-- ⏱️ Study Focus Tracker
-- 🐍 Beginner Python Projects
+- ⚡ Fun fact:  I'm fueled by curiosity, driven by daily discoveries, and on a journey to turn my love for learning into meaningful research and innovation. 
 
