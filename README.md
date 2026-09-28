@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on running CSE student.
 - 🌱 I’m currently learning  C++, Python, and Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on  beginner-friendly projects.
 - 🤔 I’m looking for help with 
